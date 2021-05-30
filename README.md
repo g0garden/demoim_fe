@@ -1,7 +1,7 @@
 # <span style='color:#683fee'>De</span>moim
   > IT관련 취업 희망자거나 협업을 하고싶은 사람들을 위한 플랫폼
   + 주소 : <a href="http://demoim.co.kr/" target="_blank">demoim.co.kr</a> 
-+ 시연영상: https://youtu.be/KjMDNk5c8mI
++ 시연영상: https://youtu.be/fzInCo4VSLE
 
 
 # 프로젝트 배경 

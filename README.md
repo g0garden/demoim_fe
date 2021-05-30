@@ -1,8 +1,8 @@
 # <span style='color:#683fee'>De</span>moim
   > IT관련 취업 희망자거나 협업을 하고싶은 사람들을 위한 플랫폼
   + 주소 : <a href="http://demoim.co.kr/" target="_blank">demoim.co.kr</a> 
-+ 시연영상: 
-+ 관련 노션: 
++ 시연영상: https://youtu.be/KjMDNk5c8mI
+
 
 # 프로젝트 배경 
 ### 🤷🏻‍♀️ 혼자 공부하는 예비 개발자/디자이너/기획자 들은 어디서 팀 프로젝트를 경험 할 수 있을까요? 
